@@ -1,10 +1,5 @@
-[![MasterHead](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)
-
 <h1 align="center">Hi 👋, I'm Olumide Micheal</h1>
 <h3 align="center">A passionate Software developer from Nigeria</h3>
-
-<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=king-mide-1&label=Profile%20views&color=0e75b6&style=flat" alt="king-mide-1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=king-mide-1" alt="king-mide-1" /></a> </p>
