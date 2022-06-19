@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **Open Source projects**
-
 - 📝 I regularly write articles on [https://hashnode.com/@codewithmide](https://hashnode.com/@codewithmide)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, C and Git**
