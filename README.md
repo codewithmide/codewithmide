@@ -4,8 +4,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=king-mide-1&" alt="king-mide-1" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=king-mide-1&label=Profile%20views&color=0e75b6&style=flat" alt="king-mide-1" /> </p>
-
 <p align="left"> <a href="https://twitter.com/olumidemicheal_" target="blank"><img src="https://img.shields.io/twitter/follow/olumidemicheal_?logo=twitter&style=for-the-badge" alt="olumidemicheal_" /></a> </p>
 
 - 🔭 I’m currently working on [C - Stacks, Queues - LIFO, FIFO](https://github.com/King-Mide-1/monty)
