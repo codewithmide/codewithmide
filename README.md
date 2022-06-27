@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/olumidemicheal_" target="blank"><img src="https://img.shields.io/twitter/follow/olumidemicheal_?logo=twitter&style=for-the-badge" alt="olumidemicheal_" /></a> </p>
 
-- 🔭 I’m currently working on [C - Stacks, Queues - LIFO, FIFO](https://github.com/King-Mide-1/monty)
+- 🔭 I’m currently working on [Python Classes and Exception](https://github.com/King-Mide-1/alx-higher_level_programming/tree/master/0x08-python-more_classes)
 
 - 🌱 I’m currently learning **Python**
 
