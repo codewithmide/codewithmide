@@ -34,5 +34,6 @@
 <a href="https://hashnode.com/@codewithmide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@codewithmide" height="30" width="40" /></a>
 <a href="https://medium.com/@olumidemicheal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@olumidemicheal7" height="30" width="40" /></a>
 </p>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=King-Mide-1)
+
+!![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=King-Mide-1)
 
