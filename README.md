@@ -37,3 +37,4 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=King-Mide-1)
 
+![snake gif](https://github.com/accodes21/accodes21/blob/output/github-contribution-grid-snake.svg)
