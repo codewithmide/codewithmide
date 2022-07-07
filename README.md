@@ -1,5 +1,5 @@
 <h1 align="center">Hi😊, I'm Olumide Micheal</h1>
-<h3 align="center">An aspiring WEB3 developer from Nigeria🇳🇬</h3>
+<h3 align="center">An aspiring WEB3 developer from Nigeria</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=king-mide-1&label=Profile%20views&color=0e75b6&style=flat" alt="king-mide-1" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=king-mide-1&" alt="king-mide-1" /></p>
