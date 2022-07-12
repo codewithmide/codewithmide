@@ -118,7 +118,7 @@
   
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmide&show_icons=true&locale=en&layout=compact" alt="codewithmide" /></p>
 
-![Olumide's GitHub stats](https://github-readme-stats.vercel.app/api?username=King-Mide-1&theme=algolia=true)
+![Olumide's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithmide&theme=algolia=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
