@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Olumide Micheal</h1>
+<h1 align="center">Hi👋, I'm Olumide Micheal</h1>
 <h3 align="center">An aspiring Web3 developer from Lagos, Nigeria</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithmide&label=Profile%20views&color=0e75b6&style=flat" alt="king-mide-1" /> </p>
 
