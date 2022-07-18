@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/olumidemicheal_" target="blank"><img src="https://img.shields.io/twitter/follow/olumidemicheal_?logo=twitter&style=for-the-badge" alt="olumidemicheal_" /></a> </p>
 
 - 🔭 I’m currently working on [Python Classes and Exception](https://github.com/King-Mide-1/alx-higher_level_programming/tree/master/0x08-python-more_classes)
-- 🌱 I’m currently learning **Python OOP and TDD**
+- 🌱 I’m currently learning **Sorting Algorithms and Big O notation**
 - 📝 I regularly write articles on [https://hashnode.com/@codewithmide](https://hashnode.com/@codewithmide)
 - 💬 Ask me about **HTML, CSS, JavaScript, C, Python and Git**
 - 📫 How to reach me **olumidemicheal7@gmail.com**
