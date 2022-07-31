@@ -1,5 +1,6 @@
-<h1 align="center">Hi👋, I'm Olumide Micheal</h1>
-<h3 align="center">An aspiring Web3 developer from Lagos, Nigeria</h3>
+### Hi there 👋,
+### I'm Olumide Micheal
+[![Linkedin Badge](https://img.shields.io/badge/-Olumide_Micheal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olumide-micheal-650b001b2//)](https://www.linkedin.com/in/olumide-micheal-650b001b2/) [![Gmail Badge](https://img.shields.io/badge/-olumidemicheal7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olumidemicheal7@gmail.com)](mailto:olumidemicheal7@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithmide&label=Profile%20views&color=0e75b6&style=flat" alt="king-mide-1" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmide&" alt="codewithmide" /></p>
