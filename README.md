@@ -1,20 +1,17 @@
-### Hi there 👋,
-### I'm Olumide Micheal
-[![Linkedin Badge](https://img.shields.io/badge/-Olumide_Micheal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olumide-micheal-650b001b2//)](https://www.linkedin.com/in/olumide-micheal-650b001b2/) [![Gmail Badge](https://img.shields.io/badge/-olumidemicheal7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olumidemicheal7@gmail.com)](mailto:olumidemicheal7@gmail.com)
+Hi there 👋,
+## I'm Olumide Micheal
+A software engineering student at ALX Africa.
+- 🔭 I’m rounding up on [Python](https://github.com/King-Mide-1/alx-higher_level_programming/tree/master)
+- ✔ I'm fully available for Open-Source projects
+- 🌱 I’m currently learning **SQL**
+- 📝 I write articles on [Hashnode](https://hashnode.com/@codewithmide)
+- 💬 Ask me about **HTML, CSS, JavaScript, C, Python and Git**
+- 📫 How to reach me **codewithmide@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithmide&label=Profile%20views&color=0e75b6&style=flat" alt="king-mide-1" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmide&" alt="codewithmide" /></p>
+## Languages and Tools
 
-<p align="left"> <a href="https://twitter.com/olumidemicheal_" target="blank"><img src="https://img.shields.io/twitter/follow/olumidemicheal_?logo=twitter&style=for-the-badge" alt="olumidemicheal_" /></a> </p>
-
-- 🔭 I’m rounding up on [Python](https://github.com/King-Mide-1/alx-higher_level_programming/tree/master)
-- 🌱 I’m currently learning **Sorting Algorithms and Big O notation**
-- 📝 I regularly write articles on [https://hashnode.com/@codewithmide](https://hashnode.com/@codewithmide)
-- 💬 Ask me about **HTML, CSS, JavaScript, C, Python and Git**
-- 📫 How to reach me **olumidemicheal7@gmail.com**
-
-<h3 align="left">Languages and Tools:</h3>
-<table align="left">
+<table>
 <tr>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
@@ -116,12 +113,13 @@
     </td>
    </tr>
 </table>
-  
+
+## Github Streak
+ 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmide&show_icons=true&locale=en&layout=compact" alt="codewithmide" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmide&" alt="codewithmide" /></p> 
 
-![Olumide's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithmide&theme=algolia=true)
-
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
 <a href="https://codepen.io/olumidemicheal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="olumidemicheal" height="30" width="40" /></a>
 <a href="https://dev.to/kingmide1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kingmide1" height="30" width="40" /></a>
@@ -132,7 +130,5 @@
 <a href="https://hashnode.com/@codewithmide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@codewithmide" height="30" width="40" /></a>
 <a href="https://medium.com/@olumidemicheal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@olumidemicheal7" height="30" width="40" /></a>
 </p>
-
-[![CodeWithMide's github activity graph](https://activity-graph.herokuapp.com/graph?username=codewithmide&theme=react-dark)](https://github.com/codewithmide)
 
 ![snake gif](https://github.com/accodes21/accodes21/blob/output/github-contribution-grid-snake.svg)
