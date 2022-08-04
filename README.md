@@ -5,7 +5,7 @@ A software engineering student at ALX Africa.
 - ✔ I'm fully available for Open-Source projects
 - 🌱 I’m currently learning **SQL**
 - 📝 I write articles on [Hashnode](https://hashnode.com/@codewithmide)
-- 💬 Ask me about **HTML, CSS, JavaScript, JQuery, SASS, BOOTSTRAP C, Python and Git**
+- 💬 Ask me about **HTML, CSS, JavaScript, JQuery, SASS, Bootstrap C, Python and Git**
 - 📫 How to reach me **codewithmide@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithmide&label=Profile%20views&color=0e75b6&style=flat" alt="king-mide-1" /> </p>
 
