@@ -126,7 +126,6 @@ A software engineering student at ALX Africa.
 <a href="https://twitter.com/olumidemicheal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olumidemicheal_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/olumide-micheal-650b001b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olumide-micheal-650b001b2" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15599045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15599045" height="30" width="40" /></a>
-
 <a href="https://hashnode.com/@codewithmide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@codewithmide" height="30" width="40" /></a>
 <a href="https://medium.com/@olumidemicheal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@olumidemicheal7" height="30" width="40" /></a>
 </p>
