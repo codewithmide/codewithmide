@@ -3,7 +3,7 @@ Hi there 👋,
 A software engineering student at ALX Africa.
 - 🔭 I’m rounding up on [Python](https://github.com/King-Mide-1/alx-higher_level_programming/tree/master)
 - ✔ I'm fully available for Open-Source projects
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript and web infrastructure**
 - 📝 I write articles on [Hashnode](https://hashnode.com/@codewithmide)
 - 💬 Ask me about **HTML, CSS, JavaScript, JQuery, SASS, Bootstrap C, Python, Bash and Git**
 - 📫 How to reach me **codewithmide@gmail.com**
