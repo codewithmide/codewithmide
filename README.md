@@ -131,3 +131,5 @@ A software engineering student at ALX Africa.
 </p>
 
 ![snake gif](https://github.com/accodes21/accodes21/blob/output/github-contribution-grid-snake.svg)
+
+[![@codewithmide2's Holopin board](https://holopin.me/codewithmide2)](https://holopin.io/@codewithmide2)
