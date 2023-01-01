@@ -1,11 +1,11 @@
 Hi there 👋,
 ## I'm Olumide Micheal
-A software engineering student at ALX Africa.
-- 🔭 I’m rounding up on [Python](https://github.com/codewithmide/alx-higher_level_programming/tree/master)
+A software engineering finalist at ALX Africa.
+- 🔭 I’m currently on a journey to master javascript!
 - ✔ I'm fully available for Open-Source projects
-- 🌱 I’m currently learning **JavaScript and Python web scraping**
+- 🌱 I’m currently learning **JavaScript, Typescript and React**
 - 📝 I write articles on [Hashnode](https://hashnode.com/@codewithmide)
-- 💬 Ask me about **HTML, CSS, JavaScript, JQuery, SASS, Bootstrap C, Python, Bash and Git**
+- 💬 Ask me about **HTML, CSS, JavaScript, JQuery, Tailwind CSS, C, Python, Bash and Git**
 - 📫 How to reach me **codewithmide@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithmide&label=Profile%20views&color=0e75b6&style=flat" alt="king-mide-1" /> </p>
 
