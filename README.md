@@ -1,6 +1,4 @@
-Hi there 👋,
-## I'm Olumide Micheal
-A software engineering finalist at ALX Africa.
+![banner](./banner.png)
 - 🔭 I’m currently on a journey to master javascript!
 - ✔ I'm fully available for Open-Source projects
 - 🌱 I’m currently learning **JavaScript, Typescript and React**
