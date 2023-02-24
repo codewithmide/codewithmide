@@ -15,16 +15,13 @@ Here are some of the open source projects I've collaborated on:
 - [I4G-OPENSOURCE-BACKEND-PROJECT](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022): Assisted in providing documentations including readme, code of conduct and contribution guide for contributors.
 - [OPENSOURCE-UNIZIK](https://github.com/nworiekingslee/Open-source-Unizik): Made my first contribution to an open source repository. Thanks to [Nworie Kingsley](https://github.com/nworiekingslee)
 
-- 🔭 I’m currently on a journey to master javascript!
-- ✔ I'm fully available for Open-Source projects
-- 🌱 I’m currently learning **JavaScript, Typescript and React**
-- 📝 I write articles on [Hashnode](https://hashnode.com/@codewithmide)
-- 💬 Ask me about **HTML, CSS, JavaScript, JQuery, Tailwind CSS, C, Python, Bash and Git**
-- 📫 How to reach me **codewithmide@gmail.com**
+<h1 align="center">Technical Articles</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithmide&label=Profile%20views&color=0e75b6&style=flat" alt="king-mide-1" /> </p>
+- [Securing Your Server with Certbot](https://codewithmide.hashnode.dev/securing-your-server-with-certbot-a-step-by-step-guide-to-easy-ssl-installation): Here I provided a step-by-step guide to an easy SSL installation on your server.
+- [*Args and **Kwargs in Python](https://codewithmide.hashnode.dev/args-and-kwargs-in-python): Having troubles understanding the args and kwargs keywords in python? Kindly read the article to get a better understanding.
+- [What happens when you type google.com in your browser and press Enter?](https://medium.com/@olumidemicheal7/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-8523aa662dbd)
 
-## Languages and Tools
+<h1 align="center">Technology Stack</h1>
 
 <table>
 <tr>
@@ -42,7 +39,7 @@ Here are some of the open source projects I've collaborated on:
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+        <img src="https://commons.wikimedia.org/wiki/File:TypeScript_Logo_(Blue).svg#/media/File:TypeScript_Logo_(Blue).svg" width="48" height="48" alt="Django" />
       </a>
       <br>Django
     </td>
@@ -128,6 +125,8 @@ Here are some of the open source projects I've collaborated on:
     </td>
    </tr>
 </table>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithmide&label=Profile%20views&color=0e75b6&style=flat" alt="codewithmide" /> </p>
 
 ## Github Streak
 
