@@ -39,7 +39,11 @@ Here are some of the open source projects I've collaborated on:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithmide&label=Profile%20views&color=0e75b6&style=flat" alt="codewithmide" /> </p>
 
-## Github Streak
+<h1 align="center">Github Streak</h1>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmide&show_icons=true&locale=en&layout=compact" alt="codewithmide" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmide&" alt="codewithmide" /></p>
