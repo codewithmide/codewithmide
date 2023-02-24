@@ -23,7 +23,7 @@ Here are some of the open source projects I've collaborated on:
 
 <h1 align="center">Technology Stack</h1>
 
-<div display="flex" gap="1rem">
+<div display="flex" width="100%" align-items="center" justify-content="space-between" gap="1rem">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
 <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
