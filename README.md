@@ -9,11 +9,11 @@ As an **open source advocate**, I also believe in the power of **collaboration**
 In addition to my software development skills, I'm also a **technical writer**. My ability to communicate technical information in a clear and concise manner can add tremendous value to any software development project. Whether it's **creating user manuals**, **developer documentation**, or **writing technical blog posts**, I'm able to make complex technical information accessible and easy to understand for end-users and developers alike.
 
 <h1 align="center">Open Source Collaborations</h1>
-
 Here are some of the open source projects I've collaborated on:
 
 - [I4G-OPENSOURCE-FRONTEND-PROJECT](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022): Collaborated with fellow maintainers by reviewing submitted PRs, raise issues and provide documentations such as the readme, code of conduct and contribution guide for contributors.
 - [I4G-OPENSOURCE-BACKEND-PROJECT](https://github.com/Ingressive-for-Good/I4G-OPENSOURCE-FRONTEND-PROJECT-2022): Assisted in providing documentations including readme, code of conduct and contribution guide for contributors.
+- [OPENSOURCE-UNIZIK](https://github.com/nworiekingslee/Open-source-Unizik): Made my first contribution to an open source repository. Thanks to [Nworie Kingsley](https://github.com/nworiekingslee)
 
 - 🔭 I’m currently on a journey to master javascript!
 - ✔ I'm fully available for Open-Source projects
