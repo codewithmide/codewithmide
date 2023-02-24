@@ -23,6 +23,8 @@ Here are some of the open source projects I've collaborated on:
 
 <h1 align="center">Technology Stack</h1>
 
+|![tech](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png)|
+
 <table>
 <tr>
     <td align="center">
