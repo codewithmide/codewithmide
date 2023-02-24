@@ -2,8 +2,9 @@
 
 <h1 align="center">About Me</h1>
 
-Hello there! I'm a **junior software developer** and an **advocate for open-source** software, I'm thrilled to have you visit my GitHub profile. I'm passionate about building **innovative** and **impactful** software solutions using cutting-edge technologies.
-With my background in **Frontend Development**, I've worked on a variety of projects ranging from **small-scale applications** to **larger enterprise systems**. I'm always looking to learn and grow as a developer and I thrive in fast-paced environments.
+Hello there! I'm a **junior software developer**, **open-source advocate** and a **technical writer**. I'm thrilled to have you visit my GitHub profile.
+With my background in **Frontend Development**, I've worked on a variety of projects ranging from **small-scale applications** to **larger enterprise systems**. I'm always looking to learn and grow as a developer.
+As an **open source advocate**, I believe in the power of **collaboration** and **community** in the tech industry. I'm always looking for opportunities to collaborate on exciting open-source projects and contribute to the tech community.
 
 - 🔭 I’m currently on a journey to master javascript!
 - ✔ I'm fully available for Open-Source projects
