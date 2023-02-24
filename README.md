@@ -30,6 +30,8 @@ Here are some of the open source projects I've collaborated on:
 <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="css3" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" height="48" alt="tailwind" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48" height="48" alt="scss" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
 <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
