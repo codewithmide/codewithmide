@@ -21,7 +21,7 @@ Here are some of the open source projects I've collaborated on:
 - [*Args and **Kwargs in Python](https://codewithmide.hashnode.dev/args-and-kwargs-in-python): Having troubles understanding the args and kwargs keywords in python? Kindly read the article to get a better understanding.
 - [What happens when you type google.com in your browser and press Enter?](https://medium.com/@olumidemicheal7/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-8523aa662dbd): Have you ever wondered about what happens behind the scene when communicating with your browser? This article provides a clear guide.
 
-<h1 align="center">Technology Stack</h1>
+<h1 align="center">Technology Tools and Stack</h1>
 
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
