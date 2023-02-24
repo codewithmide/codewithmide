@@ -23,7 +23,7 @@ Here are some of the open source projects I've collaborated on:
 
 <h1 align="center">Technology Stack</h1>
 
-<table width="100%">
+<table width="100vw">
 <tr width="100%">
     <td align="center" width="96">
       <a href="#suhailakar-tech">
