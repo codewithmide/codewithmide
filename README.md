@@ -19,7 +19,7 @@ Here are some of the open source projects I've collaborated on:
 
 - [Securing Your Server with Certbot](https://codewithmide.hashnode.dev/securing-your-server-with-certbot-a-step-by-step-guide-to-easy-ssl-installation): Here I provided a step-by-step guide to an easy SSL installation on your server.
 - [*Args and **Kwargs in Python](https://codewithmide.hashnode.dev/args-and-kwargs-in-python): Having troubles understanding the args and kwargs keywords in python? Kindly read the article to get a better understanding.
-- [What happens when you type google.com in your browser and press Enter?](https://medium.com/@olumidemicheal7/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-8523aa662dbd)
+- [What happens when you type google.com in your browser and press Enter?](https://medium.com/@olumidemicheal7/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-8523aa662dbd): Ever wondered about what happens behind the scene when communicating with your browser? This article provides a clear guide.
 
 <h1 align="center">Technology Stack</h1>
 
