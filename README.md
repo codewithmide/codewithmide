@@ -74,6 +74,6 @@ HTML         32 mins         ▓░░░░░░░░░░░░░░░░
 <a href="https://medium.com/@olumidemicheal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@olumidemicheal7" height="30" width="40" /></a>
 </p>
 
-![snake gif](https://github.com/accodes21/accodes21/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/accodes21/accodes21/blob/output/github-contribution-grid-snake.svg) -->
 
 [![@codewithmide2's Holopin board](https://holopin.me/codewithmide2)](https://holopin.io/@codewithmide2)
