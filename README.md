@@ -37,13 +37,17 @@ Here are some of the open source projects I've collaborated on:
 <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
 </div>
 
-<h1 align="center">Github Streak</h1>
+<h1 align="center">Wakatime Streak</h1>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmide&show_icons=true&locale=en&layout=compact" alt="codewithmide" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmide&" alt="codewithmide" /></p>
+<h1 align="center">Github Streak</h1>
+
+<div display="flex">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmide&show_icons=true&locale=en&layout=compact" alt="codewithmide" width="200px"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmide&" alt="codewithmide" width="200px"/></p>
+</div>
 
 ## Connect with me
 
