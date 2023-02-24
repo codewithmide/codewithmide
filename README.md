@@ -54,10 +54,11 @@ HTML         32 mins         ▓░░░░░░░░░░░░░░░░
 
 <h1 align="center">Github Streak</h1>
 
-<div display="flex">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmide&show_icons=true&locale=en&layout=compact" alt="codewithmide" width="200px"/>
+<div display="flex" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmide&show_icons=true&locale=en&layout=compact" alt="codewithmide" width="300px"/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmide&" alt="codewithmide" width="200px"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmide&" alt="codewithmide" width="300px" />
+
 </div>
 
 ## Connect with me
