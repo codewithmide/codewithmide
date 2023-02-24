@@ -1,10 +1,17 @@
 ![banner](./banner.png)
+
+<h1 align="center">About Me</h1>
+
+Hello there! I'm a **junior software developer** and an **advocate for open-source** software, I'm thrilled to have you visit my GitHub profile. I'm passionate about building **innovative** and **impactful** software solutions using cutting-edge technologies.
+With my background in **Frontend Development**, I've worked on a variety of projects ranging from **small-scale applications** to **larger enterprise systems**. I'm always looking to learn and grow as a developer and I thrive in fast-paced environments.
+
 - 🔭 I’m currently on a journey to master javascript!
 - ✔ I'm fully available for Open-Source projects
 - 🌱 I’m currently learning **JavaScript, Typescript and React**
 - 📝 I write articles on [Hashnode](https://hashnode.com/@codewithmide)
 - 💬 Ask me about **HTML, CSS, JavaScript, JQuery, Tailwind CSS, C, Python, Bash and Git**
 - 📫 How to reach me **codewithmide@gmail.com**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithmide&label=Profile%20views&color=0e75b6&style=flat" alt="king-mide-1" /> </p>
 
 ## Languages and Tools
@@ -53,7 +60,7 @@
       </a>
       <br>Node JS
     </td>
-     <td align="center" width="96"> 
+     <td align="center" width="96">
       <a href="#suhailkakar-tech" >
         <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
       </a>
@@ -61,7 +68,7 @@
     </td>
     </tr>
     <tr>
-    <td align="center" width="96"> 
+    <td align="center" width="96">
       <a href="#suhailkakar-tech" >
         <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
       </a>
@@ -97,13 +104,13 @@
       </a>
       <br>Solidity
     </td>
-     <td align="center" width="96"> 
+     <td align="center" width="96">
       <a href="#suhailkakar-tech" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
       </a>
       <br>Redux
     </td>
-    <td align="center" width="96"> 
+    <td align="center" width="96">
       <a href="#suhailkakar-tech" >
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
       </a>
@@ -113,11 +120,12 @@
 </table>
 
 ## Github Streak
- 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmide&show_icons=true&locale=en&layout=compact" alt="codewithmide" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmide&" alt="codewithmide" /></p> 
 
-## Connect with me:
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmide&show_icons=true&locale=en&layout=compact" alt="codewithmide" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmide&" alt="codewithmide" /></p>
+
+## Connect with me
+
 <p align="left">
 <a href="https://codepen.io/olumidemicheal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="olumidemicheal" height="30" width="40" /></a>
 <a href="https://dev.to/kingmide1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kingmide1" height="30" width="40" /></a>
