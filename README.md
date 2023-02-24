@@ -3,8 +3,12 @@
 <h1 align="center">About Me</h1>
 
 Hello there! I'm a **junior software developer**, **open-source advocate** and a **technical writer**. I'm thrilled to have you visit my GitHub profile.
+
 With my background in **Frontend Development**, I've worked on a variety of projects ranging from **small-scale applications** to **larger enterprise systems**. I'm always looking to learn and grow as a developer.
-As an **open source advocate**, I believe in the power of **collaboration** and **community** in the tech industry. I'm always looking for opportunities to collaborate on exciting open-source projects and contribute to the tech community.
+
+As an **open source advocate**, I also believe in the power of **collaboration** and **community** in the tech industry and I'm always looking for opportunities to collaborate on exciting open-source projects and contribute to the tech community.
+
+In addition to my software development skills, I'm also a **technical writer**. My ability to communicate technical information in a clear and concise manner can add tremendous value to any software development project. Whether it's **creating user manuals**, **developer documentation**, or **writing technical blog posts**, I'm able to make complex technical information accessible and easy to understand for end-users and developers alike.
 
 - 🔭 I’m currently on a journey to master javascript!
 - ✔ I'm fully available for Open-Source projects
