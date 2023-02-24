@@ -38,30 +38,17 @@ Here are some of the open source projects I've collaborated on:
       <br>JavaScript
     </td>
     <td align="center" width="96">
+      <a href="#suhailkakar-tech" >
+        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
+      </a>
+      <br>Next JS
+    </td>
+    </tr>
+    <td align="center" width="96">
       <a href="#suhailkakar-tech">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
       </a>
       <br>React JS
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>Bash
-    </td>
-    </tr>
-    <tr>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
-        <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
-      </a>
-      <br>C Lang
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
@@ -71,23 +58,17 @@ Here are some of the open source projects I've collaborated on:
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" width="48" height="48" alt="Solidity" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
-      <br>Solidity
+      <br>Python
     </td>
-     <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
+    <tr>
     <td align="center" width="96">
       <a href="#suhailkakar-tech" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
+        <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
       </a>
-      <br>Next JS
+      <br>C Lang
     </td>
-   </tr>
 </table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithmide&label=Profile%20views&color=0e75b6&style=flat" alt="codewithmide" /> </p>
