@@ -27,62 +27,11 @@ Here are some of the open source projects I've collaborated on:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
 <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
-<img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
 <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
 <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
 </div>
-
-
-<table>
-<tr>
-    <td align="center">
-      <a href="#suhailakar-tech">
-        
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center">
-      <a href="#suhailkakar-tech">
-
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center">
-      <a href="#suhailkakar-tech" >
-        
-      </a>
-      <br>Next JS
-    </td>
-    </tr>
-    <td align="center">
-      <a href="#suhailkakar-tech">
-        
-      </a>
-      <br>React JS
-    </td>
-    <td align="center">
-      <a href="#suhailkakar-tech">
-        
-      </a>
-      <br>Python
-    </td>
-    <td align="center">
-      <a href="#suhailkakar-tech">
-        
-      </a>
-      <br>MySQL
-    </td>
-    </tr>
-    <tr>
-    <td align="center">
-      <a href="#suhailkakar-tech" >
-        
-      </a>
-      <br>C Lang
-    </td>
-</table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithmide&label=Profile%20views&color=0e75b6&style=flat" alt="codewithmide" /> </p>
 
