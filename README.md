@@ -54,17 +54,15 @@ HTML         32 mins         ▓░░░░░░░░░░░░░░░░
 
 <h1 align="center">Github Streak</h1>
 
-<div style="display: flex; flex-direction: row;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmide&show_icons=true&locale=en&layout=compact" alt="codewithmide" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmide&show_icons=true&locale=en&layout=compact" alt="codewithmide" width="250px"/>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmide&" alt="codewithmide" width="250px" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmide&" alt="codewithmide" />
 
 </div>
 
-## Connect with me
+<h1 align="center">Connect with me</h1>
 
-<p align="left">
+<p align="center">
 <a href="https://codepen.io/olumidemicheal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="olumidemicheal" height="30" width="40" /></a>
 <a href="https://dev.to/kingmide1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kingmide1" height="30" width="40" /></a>
 <a href="https://twitter.com/olumidemicheal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olumidemicheal_" height="30" width="40" /></a>
