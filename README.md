@@ -58,7 +58,7 @@ HTML         32 mins         ▓░░░░░░░░░░░░░░░░
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmide&show_icons=true&locale=en&layout=compact" alt="codewithmide" width="48%" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmide&" alt="codewithmide" align="center" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codewithmide&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
