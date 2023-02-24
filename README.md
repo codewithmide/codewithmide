@@ -23,8 +23,8 @@ Here are some of the open source projects I've collaborated on:
 
 <h1 align="center">Technology Stack</h1>
 
-<table>
-<tr>
+<table width="100%">
+<tr width="100%">
     <td align="center" width="96">
       <a href="#suhailakar-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
@@ -52,16 +52,17 @@ Here are some of the open source projects I've collaborated on:
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    </tr>
     <tr>
     <td align="center" width="96">
       <a href="#suhailkakar-tech" >
