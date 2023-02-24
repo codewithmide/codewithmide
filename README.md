@@ -23,11 +23,13 @@ Here are some of the open source projects I've collaborated on:
 
 <h1 align="center">Technology Stack</h1>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+
 <table>
-<tr col="7">
+<tr>
     <td align="center">
       <a href="#suhailakar-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+        
       </a>
       <br>TypeScript
     </td>
