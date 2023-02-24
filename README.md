@@ -40,6 +40,16 @@ Here are some of the open source projects I've collaborated on:
 <h1 align="center">Github Streak</h1>
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   8 hrs 1 min     █████████▒░░░░░░░░░░░░░░░   37.66 %
+SCSS         6 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   28.50 %
+JavaScript   4 hrs 31 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
+Markdown     1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+JSON         39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+HTML         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+```
+
 <!--END_SECTION:waka-->
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmide&show_icons=true&locale=en&layout=compact" alt="codewithmide" /></p>
