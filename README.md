@@ -19,7 +19,7 @@ Here are some of the open source projects I've collaborated on:
 
 - [Securing Your Server with Certbot](https://codewithmide.hashnode.dev/securing-your-server-with-certbot-a-step-by-step-guide-to-easy-ssl-installation): Here I provided a step-by-step guide to an easy SSL installation on your server.
 - [*Args and **Kwargs in Python](https://codewithmide.hashnode.dev/args-and-kwargs-in-python): Having troubles understanding the args and kwargs keywords in python? Kindly read the article to get a better understanding.
-- [What happens when you type google.com in your browser and press Enter?](https://medium.com/@olumidemicheal7/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-8523aa662dbd): Ever wondered about what happens behind the scene when communicating with your browser? This article provides a clear guide.
+- [What happens when you type google.com in your browser and press Enter?](https://medium.com/@olumidemicheal7/what-happens-when-you-type-google-com-in-your-browser-and-press-enter-8523aa662dbd): Have you ever wondered about what happens behind the scene when communicating with your browser? This article provides a clear guide.
 
 <h1 align="center">Technology Stack</h1>
 
@@ -50,10 +50,10 @@ Here are some of the open source projects I've collaborated on:
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+      <a href="#suhailkakar-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
       </a>
-      <br>MongoDB
+      <br>Bash
     </td>
     </tr>
     <tr>
@@ -62,24 +62,6 @@ Here are some of the open source projects I've collaborated on:
         <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
       </a>
       <br>C Lang
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
-        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
     </td>
     <td align="center" width="96">
       <a href="#suhailkakar-tech">
