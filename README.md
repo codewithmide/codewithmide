@@ -56,9 +56,9 @@ HTML         32 mins         ▓░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmide&show_icons=true&locale=en&layout=compact" alt="codewithmide" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmide&show_icons=true&locale=en&layout=compact" alt="codewithmide" width="48%" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmide&" alt="codewithmide" align="center" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithmide&" alt="codewithmide" align="center" />
 
 </div>
 
