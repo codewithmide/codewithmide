@@ -42,10 +42,10 @@ Here are some of the open source projects I've collaborated on:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 8 mins    ████████▓░░░░░░░░░░░░░░░░   34.36 %
-TypeScript   2 hrs 2 mins    ████████░░░░░░░░░░░░░░░░░   32.62 %
-CSS          1 hr 53 mins    ███████▓░░░░░░░░░░░░░░░░░   30.33 %
-JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+JavaScript   2 hrs 4 mins    ██████████▒░░░░░░░░░░░░░░   41.04 %
+CSS          1 hr 45 mins    ████████▓░░░░░░░░░░░░░░░░   34.82 %
+TypeScript   1 hr 3 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
+JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
 ```
 
 <!--END_SECTION:waka-->
