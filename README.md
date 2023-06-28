@@ -55,7 +55,12 @@ CSS          3 mins          ░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithmide&show_icons=true&locale=en&layout=compact" alt="codewithmide" width="48%" />
+<br/>
+  <p>
+    <a href="https://github.com/codewithmide/github-readme-stats"><img alt="codewithmide's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codewithmide&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/codewithmide/github-readme-stats"><img alt="codewithmide's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmide&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </p>
+<br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codewithmide&hide_border=true)](https://git.io/streak-stats)
 
