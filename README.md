@@ -6,7 +6,7 @@ I'm a Software Engineer who's passionate about open-source development and techn
 
 <h1 align="">Technology Tools and Stack</h1>
 
-<div align="center">
+<div align="">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
 <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
@@ -22,7 +22,7 @@ I'm a Software Engineer who's passionate about open-source development and techn
 
 <h1 align="">Github Streak</h1>
 
-<div align="center">
+<div align="">
 
 <br/>
   <p>
@@ -35,7 +35,7 @@ I'm a Software Engineer who's passionate about open-source development and techn
 
 <h1 align="">Connect with me</h1>
 
-<p align="center">
+<p align="">
 <a href="https://twitter.com/olumide______" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olumidemicheal_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/codewithmide/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olumide-micheal-650b001b2" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15599045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15599045" height="30" width="40" /></a>
