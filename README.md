@@ -45,4 +45,4 @@ I'm a Software Engineer who's passionate about open-source development and techn
 
 <!-- ![snake gif](https://github.com/accodes21/accodes21/blob/output/github-contribution-grid-snake.svg) -->
 
-[![@codewithmide2's Holopin board](https://holopin.me/codewithmide2)](https://holopin.io/@codewithmide2)
+[![An image of @codewithmide2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codewithmide2)](https://holopin.io/@codewithmide2)
