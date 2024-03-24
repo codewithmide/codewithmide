@@ -2,7 +2,8 @@
 
 <h1 align="">About Me</h1>
 
-I'm a Software Engineer who's passionate about open-source development and technical writing. I'm thrilled to have you visiting my GitHub profile! My expertise lies in front-end development, and I've worked on a wide range of projects, from small-scale applications to large enterprise systems. My commitment to continuous learning and development drives me to always seek opportunities for growth in my field. Additionally, I strongly believe in the power of collaboration and community.
+Welcome to my profile! I'm a Software Engineer with a deep dive into the blockchain space. I craft products and nurture communities, bridging technology and people. My journey spans front-end engineering to blockchain development, where I turn ideas into digital products.
+I am passionate about open-source and continuous learning and I thrive on collaboration. Let's connect and build the future together!
 
 <h1 align="">Technology Tools and Stack</h1>
 
