@@ -2,8 +2,7 @@
 
 <h1 align="">About Me</h1>
 
-Welcome to my profile! I'm a Software Engineer with a deep dive into the blockchain space. I craft products and nurture communities, bridging technology and people. My journey spans front-end engineering to blockchain development, where I turn ideas into digital products.
-I am passionate about open-source and continuous learning and I thrive on collaboration. Let's connect and build the future together!
+I am a Software Engineer passionate about building innovative solutions. Actively contributing to the growth of the blockchain community through workshops, meetups, and conferences.
 
 <h1 align="">Technology Tools and Stack</h1>
 
